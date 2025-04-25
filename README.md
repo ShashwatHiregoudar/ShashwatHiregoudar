@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on WiFi 📶🌐📡🔌
-- 🤔 I’m looking for help with local Multiplayer Game on unreal engine
-- 💬 Ask me about 
+- 🔭 I’m currently working on Cloud Storage
+- 💬 Ask me about
+  - Cloud
+  - Kubernetes
+  - nvme storage
+  - spdk
   - WiFi
   - Bluetooth
   - Python
